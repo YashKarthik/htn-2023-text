@@ -1,0 +1,14 @@
+{
+  "name": "htn-2023-text",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "cohere-ai": "^6.2.2"
+  }
+}
